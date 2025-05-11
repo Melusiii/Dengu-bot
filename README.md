@@ -13,7 +13,7 @@ Interactive: Helps users improve financial knowledge through structured conversa
 Installation
 To get started with Dengu Bot, clone this repository and follow these steps:
 
-git clone https://github.com/yourusername/dengu-bot.git
+git clone https://github.com/Melusiii/dengu-bot.git
 cd dengu-bot
 npm install
 
@@ -26,4 +26,4 @@ Contributing
 If you want to contribute to Dengu Bot, feel free to fork the repository, create a branch, and submit a pull request. All contributions are welcome!
 
 Contact
-For any questions, reach out to melushanzi#2@gmail.com or open an issue on GitHub.
+For any questions, reach out to melushanzi32@gmail.com or open an issue on GitHub.
